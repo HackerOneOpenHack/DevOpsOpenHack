@@ -1,6 +1,6 @@
 
 #Define Code owners for eaxh service
 /apis/poi  @HackerOneOpenHack
-/apis/trips  @HackerOneOpenHack
+/apis/trips  @HackerTwoOpenHack
 /apis/user-java @HackerOneOpenHack
 /apis/user-profile  @HackerOneOpenHack
